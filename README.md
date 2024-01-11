@@ -1,8 +1,8 @@
 </div>
 <b class="width:10%">
-<h2>Chat Module Used</h2>
+<h2>NpmJS Module Pack</h2>
 <img width="20%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxew-w5aO5ARRdSYPxaPh2pwS7MuAnQ3A2xyEXSQBCUeb4rEV-qIb3-Sy_3X8QBGsBtk" />
-<li><b>🔭 Firstly open the project and open the terminal and type npm i.</li>
-<li><b>🌱Then enter the package.json file and change only the name part, the value written opposite is your module name in npmjs.</b></li>
-<li><b>⭐ Then type npm login and synchronise your npmjs account.</b></li>
-<li><b>💬 Then type npm publish and your module will open.</b>/li>
+<li><b>🔭 The aim of this project is to create a package of 100 modules.</li>
+<li><b>🌱 The purpose of the project is to help you understand the logic of creating modules in npmjs.</b></li>
+<li><b>⭐ One project will be shared every 5 stars.</b></li>
+<li><b>💬 <a href="[http](https://discord.gg/altyapilar)">Click</a> to contact me.</b>/li>
