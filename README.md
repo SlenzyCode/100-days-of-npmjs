@@ -5,4 +5,4 @@
 <li><b>🔭 The aim of this project is to create a package of 100 modules.</li>
 <li><b>🌱 The purpose of the project is to help you understand the logic of creating modules in npmjs.</b></li>
 <li><b>⭐ One project will be shared every 5 stars.</b></li>
-<li><b>💬 <a href="[http](https://discord.gg/altyapilar)">Click</a> to contact me.</b>/li>
+<li><b>💬 <a href="[http](https://discord.gg/altyapilar)">Click</a> to contact me.</b></li>
