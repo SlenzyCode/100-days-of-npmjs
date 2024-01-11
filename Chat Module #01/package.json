@@ -1,0 +1,14 @@
+{
+  "name": "new-ai-module",
+  "version": "0.0.1",
+  "description": "Gpt Description.",
+  "main": "src/test.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "author": "slenzycode",
+  "license": "MIT",
+  "dependencies": {
+    "hercai": "^12.0.0"
+  }
+}
